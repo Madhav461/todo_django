@@ -130,4 +130,5 @@ STATIC_URL = '/static/'
 
 CORS_ORIGIN_WHITELIST=[
     "http://localhost:3000",
+    "https://todo-frontend-p5jy.vercel.app",
 ]
